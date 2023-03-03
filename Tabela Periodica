@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+    <title>Tabela Periódica</title>
+</head>
+<body>
+    <div align="center">
+        <h1>Tabela Perióca</h1>
+        <table border="5">
+            <thead>
+                <tr>
+                    <td>1</td>
+                    <td>2</td>
+                    <td>3</td>
+                    <td>4</td>
+                    <td>5</td>
+                    <td>6</td>
+                    <td>7</td>
+                    <td>8</td>
+                    <td>9</td>
+                    <td>10</td>
+                    <td>11</td>
+                    <td>12</td>
+                    <td>13</td>
+                    <td>14</td>
+                    <td>15</td>
+                    <td>16</td>
+                    <td>17</td>
+                    <td>18</td>
+                </tr>
+            </thead>
+
+            <tbody>
+                <tr>
+                    <td> <p> H </p> </td>
+                    <td colspan="16" > </td>
+                    <td> <p> He </p> </td>
+                </tr>
+
+                <tr>
+                    <td> <p> Li </p> </td>
+                    <td> <p> Be </p> </td>
+
+                    <td colspan="10" > </td>
+
+                    <td> <p> B </p> </td>
+                    <td> <p> C </p> </td>
+                    <td> <p> N </p> </td>
+                    <td> <p> O </p> </td>
+                    <td> <p> F </p> </td>
+                    <td> <p> Ne </p> </td>
+                </tr>
+                <tr>
+                    <td> <p> Na </p> </td>
+                    <td> <p> Mg </p> </td>
+                    <td codspan="10"> </td>
+
+                    <td> <p> Al </p> </td>  
+                    <td> <p> Si </p> </td>
+                    <td> <p> P </p> </td>
+                    <td> <p> S </p> </td>
+                    <td> <p> Cl </p> </td>
+                    <td> <p> Ar </p> </td>
+    
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>
